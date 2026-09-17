@@ -1,0 +1,25 @@
+# ---- 系统 / 编辑器 ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# ---- 深度学习产物（权重、缓存）----
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+*.h5
+.cache/
