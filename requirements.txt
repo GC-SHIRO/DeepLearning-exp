@@ -1,0 +1,21 @@
+# Core scientific computing and visualization
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+plotly
+
+# Deep learning and NLP
+torch
+torchvision
+transformers
+
+# Jupyter notebooks
+ipython
+nbformat
+
+# Audio/video notebooks (exp1C and exp1D)
+imageio-ffmpeg
+opencv-python
+sounddevice
