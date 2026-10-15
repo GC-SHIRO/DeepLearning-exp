@@ -1,0 +1,6 @@
+﻿sample_class,predicted_class,probability,top1_matches_label,top5
+goldfish,goldfish,0.9954918026924133,True,goldfish: 0.9955; tench: 0.0043; puffer: 0.0001; rock beauty: 0.0000; axolotl: 0.0000
+golden retriever,golden retriever,0.5854824781417847,True,golden retriever: 0.5855; Chesapeake Bay retriever: 0.0724; cocker spaniel: 0.0525; otterhound: 0.0226; flat-coated retriever: 0.0201
+tabby,Egyptian cat,0.4651406705379486,False,Egyptian cat: 0.4651; tabby: 0.1954; tiger cat: 0.1915; lynx: 0.0525; leopard: 0.0252
+airliner,airliner,0.8385416269302368,True,airliner: 0.8385; wing: 0.1428; warplane: 0.0060; flagpole: 0.0040; aircraft carrier: 0.0017
+school bus,school bus,0.8834654688835144,True,school bus: 0.8835; minibus: 0.0608; recreational vehicle: 0.0331; passenger car: 0.0075; moving van: 0.0067

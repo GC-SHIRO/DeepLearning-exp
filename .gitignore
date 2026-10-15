@@ -23,3 +23,5 @@ env/
 *.safetensors
 *.h5
 .cache/
+# Mini Speech Commands is downloaded automatically by exp3D.
+exp3/data/mini_speech_commands/

@@ -1,0 +1,28 @@
+{
+  "test_accuracy": 0.9176570458404074,
+  "test_loss": 0.3303118944168091,
+  "macro_f1": 0.9182473786932523,
+  "best_epoch": 19,
+  "epochs_run": 20,
+  "seed": 42,
+  "class_names": [
+    "down",
+    "go",
+    "left",
+    "no",
+    "right",
+    "stop",
+    "up",
+    "yes"
+  ],
+  "split_sizes": {
+    "train": 5731,
+    "validation": 1091,
+    "test": 1178
+  },
+  "batch_size": 64,
+  "initial_learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "train_mean_db": -55.44697570800781,
+  "train_std_db": 19.485694885253906
+}

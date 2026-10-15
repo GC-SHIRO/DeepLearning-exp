@@ -1,0 +1,101 @@
+﻿class_id,synset,filename,true_class,predicted_class,true_class_probability
+1,n01443537,n01443537_goldfish.JPEG,goldfish,goldfish,0.9954918
+42,n01687978,n01687978_agama.JPEG,agama,agama,0.82838076
+60,n01740131,n01740131_night_snake.JPEG,night snake,ringneck snake,0.022243455
+65,n01751748,n01751748_sea_snake.JPEG,sea snake,eel,0.21195775
+74,n01773797,n01773797_garden_spider.JPEG,garden spider,garden spider,0.8204154
+78,n01776313,n01776313_tick.JPEG,tick,tick,0.62067854
+81,n01796340,n01796340_ptarmigan.JPEG,ptarmigan,ptarmigan,0.9926604
+86,n01807496,n01807496_partridge.JPEG,partridge,partridge,0.75545514
+96,n01843383,n01843383_toucan.JPEG,toucan,toucan,0.6478083
+118,n01978287,n01978287_Dungeness_crab.JPEG,Dungeness crab,fiddler crab,4.1852803e-05
+127,n02002556,n02002556_white_stork.JPEG,white stork,white stork,0.98999
+148,n02071294,n02071294_killer_whale.JPEG,killer whale,killer whale,0.96458477
+156,n02086646,n02086646_Blenheim_spaniel.JPEG,Blenheim spaniel,Blenheim spaniel,0.9310158
+158,n02087046,n02087046_toy_terrier.JPEG,toy terrier,toy terrier,0.5422609
+169,n02090622,n02090622_borzoi.JPEG,borzoi,kuvasz,0.44934243
+184,n02093991,n02093991_Irish_terrier.JPEG,Irish terrier,golden retriever,0.04415154
+185,n02094114,n02094114_Norfolk_terrier.JPEG,Norfolk terrier,Norfolk terrier,0.66864645
+186,n02094258,n02094258_Norwich_terrier.JPEG,Norwich terrier,Norwich terrier,0.44591945
+207,n02099601,n02099601_golden_retriever.JPEG,golden retriever,golden retriever,0.5854818
+213,n02100877,n02100877_Irish_setter.JPEG,Irish setter,Irish setter,0.9533603
+223,n02104365,n02104365_schipperke.JPEG,schipperke,schipperke,0.9742279
+261,n02112350,n02112350_keeshond.JPEG,keeshond,keeshond,0.99733526
+281,n02123045,n02123045_tabby.JPEG,tabby,Egyptian cat,0.19542935
+311,n02226429,n02226429_grasshopper.JPEG,grasshopper,cricket,0.34371018
+317,n02259212,n02259212_leafhopper.JPEG,leafhopper,leafhopper,0.99842864
+325,n02281406,n02281406_sulphur_butterfly.JPEG,sulphur butterfly,sulphur butterfly,0.68182886
+337,n02363005,n02363005_beaver.JPEG,beaver,beaver,0.934138
+344,n02398521,n02398521_hippopotamus.JPEG,hippopotamus,hippopotamus,0.99202627
+349,n02415577,n02415577_bighorn.JPEG,bighorn,bighorn,0.71420187
+356,n02441942,n02441942_weasel.JPEG,weasel,mink,0.065314755
+361,n02445715,n02445715_skunk.JPEG,skunk,mink,0.10854791
+376,n02489166,n02489166_proboscis_monkey.JPEG,proboscis monkey,proboscis monkey,0.99994385
+388,n02510455,n02510455_giant_panda.JPEG,giant panda,giant panda,0.9999912
+394,n02640242,n02640242_sturgeon.JPEG,sturgeon,sturgeon,0.9636612
+399,n02667093,n02667093_abaya.JPEG,abaya,abaya,0.94246006
+404,n02690373,n02690373_airliner.JPEG,airliner,airliner,0.8385407
+416,n02777292,n02777292_balance_beam.JPEG,balance beam,balance beam,0.542134
+418,n02783161,n02783161_ballpoint.JPEG,ballpoint,ballpoint,0.5306574
+423,n02791124,n02791124_barber_chair.JPEG,barber chair,barber chair,0.9837828
+426,n02794156,n02794156_barometer.JPEG,barometer,barometer,0.10387919
+433,n02807133,n02807133_bathing_cap.JPEG,bathing cap,bathing cap,0.99352735
+435,n02808440,n02808440_bathtub.JPEG,bathtub,bathtub,0.61174303
+449,n02859443,n02859443_boathouse.JPEG,boathouse,boathouse,0.31044167
+454,n02871525,n02871525_bookshop.JPEG,bookshop,bookshop,0.84282696
+459,n02892767,n02892767_brassiere.JPEG,brassiere,maillot,0.11184592
+464,n02910353,n02910353_buckle.JPEG,buckle,buckle,0.84953773
+468,n02930766,n02930766_cab.JPEG,cab,cab,0.9554355
+474,n02963159,n02963159_cardigan.JPEG,cardigan,cardigan,0.9750209
+479,n02974003,n02974003_car_wheel.JPEG,car wheel,car wheel,0.99188787
+483,n02980441,n02980441_castle.JPEG,castle,castle,0.995634
+510,n03095699,n03095699_container_ship.JPEG,container ship,container ship,0.9999696
+521,n03133878,n03133878_Crock_Pot.JPEG,Crock Pot,stove,0.18640266
+527,n03180011,n03180011_desktop_computer.JPEG,desktop computer,desktop computer,0.42278138
+556,n03347037,n03347037_fire_screen.JPEG,fire screen,stove,0.24376927
+595,n03496892,n03496892_harvester.JPEG,harvester,harvester,0.50459474
+597,n03527444,n03527444_holster.JPEG,holster,holster,0.99729186
+600,n03532672,n03532672_hook.JPEG,hook,hook,0.98827606
+624,n03661043,n03661043_library.JPEG,library,library,0.9194
+637,n03710193,n03710193_mailbox.JPEG,mailbox,mailbox,0.9963483
+647,n03733805,n03733805_measuring_cup.JPEG,measuring cup,measuring cup,0.4682376
+659,n03775546,n03775546_mixing_bowl.JPEG,mixing bowl,Granny Smith,0.011162787
+660,n03776460,n03776460_mobile_home.JPEG,mobile home,mobile home,0.9658562
+664,n03782006,n03782006_monitor.JPEG,monitor,screen,0.06136181
+673,n03793489,n03793489_mouse.JPEG,mouse,desktop computer,0.041767616
+675,n03796401,n03796401_moving_van.JPEG,moving van,moving van,0.9126552
+694,n03874293,n03874293_paddlewheel.JPEG,paddlewheel,paddlewheel,0.99996483
+699,n03884397,n03884397_panpipe.JPEG,panpipe,panpipe,0.976909
+702,n03888605,n03888605_parallel_bars.JPEG,parallel bars,parallel bars,0.83413893
+716,n03930313,n03930313_picket_fence.JPEG,picket fence,picket fence,0.27063194
+718,n03933933,n03933933_pier.JPEG,pier,pier,0.63661355
+720,n03937543,n03937543_pill_bottle.JPEG,pill bottle,oil filter,0.11647554
+724,n03947888,n03947888_pirate.JPEG,pirate,pirate,0.95605195
+726,n03954731,n03954731_plane.JPEG,plane,plane,0.9989171
+743,n04005630,n04005630_prison.JPEG,prison,prison,0.6068862
+763,n04086273,n04086273_revolver.JPEG,revolver,revolver,0.9808957
+767,n04116512,n04116512_rubber_eraser.JPEG,rubber eraser,slide rule,0.05179524
+775,n04136333,n04136333_sarong.JPEG,sarong,gown,0.38832867
+776,n04141076,n04141076_sax.JPEG,sax,sax,0.73244107
+779,n04146614,n04146614_school_bus.JPEG,school bus,school bus,0.88346577
+781,n04149813,n04149813_scoreboard.JPEG,scoreboard,scoreboard,0.97572905
+782,n04152593,n04152593_screen.JPEG,screen,television,0.05891416
+803,n04252225,n04252225_snowplow.JPEG,snowplow,snowplow,0.9999298
+809,n04263257,n04263257_soup_bowl.JPEG,soup bowl,soup bowl,0.7526752
+824,n04325704,n04325704_stole.JPEG,stole,cardigan,0.2552128
+828,n04332243,n04332243_strainer.JPEG,strainer,strainer,0.99650985
+835,n04355338,n04355338_sundial.JPEG,sundial,sundial,0.7483774
+840,n04367480,n04367480_swab.JPEG,swab,iron,0.03885726
+851,n04404412,n04404412_television.JPEG,television,entertainment center,0.06183262
+861,n04447861,n04447861_toilet_seat.JPEG,toilet seat,toilet seat,0.9871243
+880,n04509417,n04509417_unicycle.JPEG,unicycle,jinrikisha,0.059657153
+891,n04542943,n04542943_waffle_iron.JPEG,waffle iron,waffle iron,0.7251761
+894,n04550184,n04550184_wardrobe.JPEG,wardrobe,wardrobe,0.5842589
+898,n04557648,n04557648_water_bottle.JPEG,water bottle,water bottle,0.4710586
+923,n07579787,n07579787_plate.JPEG,plate,plate,0.65860575
+927,n07613480,n07613480_trifle.JPEG,trifle,trifle,0.64872485
+937,n07714990,n07714990_broccoli.JPEG,broccoli,broccoli,0.99981004
+955,n07754684,n07754684_jackfruit.JPEG,jackfruit,jackfruit,0.9986084
+968,n07930864,n07930864_cup.JPEG,cup,cup,0.54273766
+969,n07932039,n07932039_eggnog.JPEG,eggnog,eggnog,0.9938147
+984,n11879895,n11879895_rapeseed.JPEG,rapeseed,rapeseed,0.9991033

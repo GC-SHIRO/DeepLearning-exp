@@ -1,0 +1,6 @@
+﻿sample_class,predicted_class,probability
+goldfish,goldfish,0.9954918026924133
+golden retriever,golden retriever,0.5854824781417847
+tabby,Egyptian cat,0.4651406705379486
+airliner,airliner,0.8385416269302368
+school bus,school bus,0.8834654688835144

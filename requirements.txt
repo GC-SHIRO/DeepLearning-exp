@@ -19,3 +19,4 @@ nbformat
 imageio-ffmpeg
 opencv-python
 sounddevice
+librosa
