@@ -1,0 +1,2 @@
+device,input_size,batch_size,latency_ms,FPS
+cpu,192,1,3.0081600008998066,332.4291260108765

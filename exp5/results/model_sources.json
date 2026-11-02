@@ -1,0 +1,68 @@
+[
+  {
+    "repo": "bert-base-chinese",
+    "file": "config.json",
+    "sha256": "88af762cfb15fa9ce183c84dcbfdc9d635196ba635dfe81f265fdd21d67f4c4c",
+    "bytes": 624
+  },
+  {
+    "repo": "bert-base-chinese",
+    "file": "model.safetensors",
+    "sha256": "3404a1ffd8da507042e8161013ba2a4fc49858b4e3f8fbf5ce5724f94883aec3",
+    "bytes": 411553788
+  },
+  {
+    "repo": "bert-base-chinese",
+    "file": "tokenizer.json",
+    "sha256": "55c5edcfb8936895e019b2d8f97dcb547734f25b29f95009155f4c8c15649aae",
+    "bytes": 268943
+  },
+  {
+    "repo": "bert-base-chinese",
+    "file": "tokenizer_config.json",
+    "sha256": "0f6d13e6f4da6f9e24f22ada6bc3be571123d858d7c0c05a8a7cd55a9c23c2e8",
+    "bytes": 49
+  },
+  {
+    "repo": "bert-base-chinese",
+    "file": "vocab.txt",
+    "sha256": "45bbac6b341c319adc98a532532882e91a9cefc0329aa57bac9ae761c27b291c",
+    "bytes": 109540
+  },
+  {
+    "repo": "openai-gpt",
+    "file": "config.json",
+    "sha256": "0499825b2f56e282ebc36725df61754abe58a3cd117ef99b571570d27e62ff36",
+    "bytes": 656
+  },
+  {
+    "repo": "openai-gpt",
+    "file": "merges.txt",
+    "sha256": "0ea9b51ae695073cd871e0358f7016311d671a7ff3963e367d5236522f294725",
+    "bytes": 458495
+  },
+  {
+    "repo": "openai-gpt",
+    "file": "model.safetensors",
+    "sha256": "25c82cdf1844d2d93e9120b3b628fc6c2b4fcc7801a1297f58465ba67d45deb3",
+    "bytes": 478736214
+  },
+  {
+    "repo": "openai-gpt",
+    "file": "tokenizer.json",
+    "sha256": "ad8b2a00566d1cce8f64b3bb73243c716ddb130ef09ae073cecf217c84cc42d3",
+    "bytes": 1272610
+  },
+  {
+    "repo": "openai-gpt",
+    "file": "tokenizer_config.json",
+    "sha256": "994f46754c5bf4014f1aa92d34b1374319c3a6b3f702105cd5b742beaecd18ce",
+    "bytes": 25
+  },
+  {
+    "repo": "openai-gpt",
+    "file": "vocab.json",
+    "sha256": "fdf49b19e7de236852091da09b84a7a3cd5e7b0e79916376cf45f6b8127b8078",
+    "bytes": 815973
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=22.55&longitude=114.05&start_date=2024-01-01&end_date=2026-10-16&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=Asia%2FShanghai&models=era5",
+  "dataset": "ERA5 reanalysis",
+  "request_coordinate": [
+    22.55,
+    114.05
+  ],
+  "grid_coordinate": [
+    22.5,
+    114.0
+  ],
+  "start": "2024-01-01",
+  "end": "2026-10-16",
+  "rows": 1020,
+  "scaler_mean": [
+    26.93114754098361,
+    21.983879781420764
+  ],
+  "scaler_scale": [
+    5.143271087641006,
+    5.49023347735055
+  ]
+}

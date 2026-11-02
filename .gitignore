@@ -25,3 +25,9 @@ env/
 .cache/
 # Mini Speech Commands is downloaded automatically by exp3D.
 exp3/data/mini_speech_commands/
+
+# exp4 downloaded datasets; notebooks save split manifests and evaluation results
+exp4/data/
+
+# exp5 downloaded datasets
+exp5/data/

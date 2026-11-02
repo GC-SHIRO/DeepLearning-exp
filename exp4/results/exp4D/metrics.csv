@@ -1,0 +1,2 @@
+Precision_micro,Recall_micro,mAP50,confidence,test_images,test_objects,best_epoch
+0.4796116504854369,0.37452615617892343,0.22084626555291875,0.7000000000000001,241,1319,18

@@ -14,9 +14,20 @@ transformers
 # Jupyter notebooks
 ipython
 nbformat
+nbclient
+
+# exp4 data download, Chinese conversion and caption evaluation
+requests
+opencc-python-reimplemented
+nltk
 
 # Audio/video notebooks (exp1C and exp1D)
 imageio-ffmpeg
 opencv-python
 sounddevice
 librosa
+
+pyarrow
+ipykernel
+huggingface-hub
+safetensors

@@ -1,0 +1,18 @@
+{
+  "B": {
+    "n": 624,
+    "metrics_recomputed": true
+  },
+  "C": {
+    "n": 624,
+    "metrics_recomputed": true
+  },
+  "identical_splits_no_text_overlap": true,
+  "A_notebook_no_errors": true,
+  "B_notebook_no_errors": true,
+  "C_notebook_no_errors": true,
+  "D_notebook_no_errors": true,
+  "B_baseline_matches_A": true,
+  "C_baseline_matches_A": true,
+  "png_files_valid": true
+}
