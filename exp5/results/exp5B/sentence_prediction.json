@@ -1,0 +1,9 @@
+{
+  "sentence": "I loved this wonderful movie and felt very happy.",
+  "prediction": "positive",
+  "probabilities": {
+    "positive": 0.995577335357666,
+    "negative": 0.00018721378000918776,
+    "neutral": 0.004235543310642242
+  }
+}

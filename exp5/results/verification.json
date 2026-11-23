@@ -1,18 +1,30 @@
 {
+  "identical_splits_without_text_overlap": true,
+  "split_sizes": {
+    "test": 2210,
+    "train": 8531,
+    "val": 1100
+  },
   "B": {
-    "n": 624,
-    "metrics_recomputed": true
+    "metrics_recomputed": true,
+    "n": 2210,
+    "invalid_generations": 0,
+    "baseline_matches_A": true
   },
   "C": {
-    "n": 624,
-    "metrics_recomputed": true
+    "metrics_recomputed": true,
+    "n": 2210,
+    "invalid_generations": 0,
+    "baseline_matches_A": true
   },
-  "identical_splits_no_text_overlap": true,
-  "A_notebook_no_errors": true,
-  "B_notebook_no_errors": true,
-  "C_notebook_no_errors": true,
-  "D_notebook_no_errors": true,
-  "B_baseline_matches_A": true,
-  "C_baseline_matches_A": true,
-  "png_files_valid": true
+  "A_executed_cells": 7,
+  "B_executed_cells": 11,
+  "C_executed_cells": 12,
+  "versions": {
+    "torch": "2.14.1+cu130",
+    "transformers": "5.19.0",
+    "numpy": "2.4.6",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1"
+  }
 }
