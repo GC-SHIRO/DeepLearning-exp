@@ -1,0 +1,7 @@
+domain,split,n,positive,median_tokens,truncated_fraction
+sst2,val,436,222,24.0,0.0
+sst2,test,436,222,25.0,0.0
+imdb,test,2000,1000,216.0,0.928
+imdb,val,600,300,218.0,0.9316666666666666
+imdb,train,4800,2400,218.0,0.9266666666666666
+sst2,train,4800,2400,11.0,0.0

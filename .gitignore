@@ -31,3 +31,10 @@ exp4/data/
 
 # exp5 downloaded datasets
 exp5/data/
+
+# exp6 cached source photographs
+exp6/data/
+
+# exp7 original sentiment datasets
+exp7/data/
+期末汇报PPT/*

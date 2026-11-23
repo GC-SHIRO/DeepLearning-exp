@@ -1,0 +1,16 @@
+{
+  "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+  "revision": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+  "trainable": 797184,
+  "unet_total": 860318148,
+  "rank": 4,
+  "alpha": 4,
+  "seed": 6026,
+  "steps": 144,
+  "batch_size": 1,
+  "lr": 0.0002,
+  "training_size": 320,
+  "inference_size": 384,
+  "ddim_steps": 25,
+  "guidance": 7.5
+}
